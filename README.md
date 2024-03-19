@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riddhish143&label=Profile%20views&color=0e75b6&style=flat" alt="riddhish143" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riddhish143" alt="riddhish143" /></a> </p>
-
 - 🌱 I’m currently learning Machine learning **PyTorch , TensorFlow etc**
 
 - 💬 Ask me about **Hey there, I'm Riddhish Ganesh Mahajan, passionate about crafting mobile experiences through Android and iOS app development using Flutter, Firebase, and Firestore. But here's the twist - I'm diving deep into Deep Learning and Machine Learning, exploring data structures, algorithms, and the magic of data science. Why the shift? Well, in today's tech world, versatility is key. By merging app development with deep learning, I'm ready to tackle any challenge and push boundaries. In a nutshell, I'm Riddhish Ganesh Mahajan - a tech enthusiast, problem solver, and lifelong learner. And trust me, the journey is just beginning. Let's dive in together!**
