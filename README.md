@@ -1,3 +1,5 @@
+![Top Doodle](/files/top.png)
+
 <h1 align="center">Hi 👋, I'm Riddhish Ganesh Mahajan</h1>
 <h3 align="center">Data Dreamer: Igniting Passion and Powering Progress in Data Science</h3>
 
